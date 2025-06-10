@@ -12,3 +12,5 @@ pypandoc # for markdown reader
 pypandoc_binary # pypandoc pandoc backend
 panflute # for pandoc filters
 numpy<2.0.0 # for compatibility
+jupyter-core>=5.8.0 # not directly required, pinned by Snyk to avoid a vulnerability
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
