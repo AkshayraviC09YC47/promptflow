@@ -38,3 +38,4 @@ streamlit-quill
 bs4
 pywin32
 argcomplete
+starlette>=0.47.2 # not directly required, pinned by Snyk to avoid a vulnerability
