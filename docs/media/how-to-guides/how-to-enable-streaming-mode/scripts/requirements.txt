@@ -1,3 +1,4 @@
 azure-identity
 azure-ai-ml
 sseclient-py
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
